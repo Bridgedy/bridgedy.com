@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient cx="0" cy="0" gradientTransform="matrix(260 0 0 260 641.706 377.812)" gradientUnits="userSpaceOnUse" id="RadialGradient" r="1">
+<stop offset="0" stop-color="#eb5b96"/>
+<stop offset="1" stop-color="#ea3a29"/>
+</radialGradient>
+</defs>
+<path d="M0 0L1024 0L1024 1024L0 1024L0 0Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:artboardBackground="true"/>
+<g id="Capa-1" vectornator:layerName="Capa 1">
+<path d="M381.706 377.812C381.706 234.218 498.112 117.812 641.706 117.812C785.3 117.812 901.706 234.218 901.706 377.812C901.706 521.406 785.3 637.812 641.706 637.812C498.112 637.812 381.706 521.406 381.706 377.812Z" fill="url(#RadialGradient)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Óvalo 1"/>
+</g>
+</svg>

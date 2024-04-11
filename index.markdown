@@ -9,10 +9,9 @@ layout: home
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10%;
+    margin-top: 5%;
     width: 15%;
     border-radius: 20%;
-    box-shadow: 10px 5px 5px gray;
 }
 .title {
     display: block;
@@ -21,6 +20,17 @@ layout: home
     margin-right: auto;
     margin-top: 10%;
     font-size: 50px;
+    font-weight: 600;
+    width: 80%;
+    font-family: -apple-system;
+}
+.subtitle {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    font-size: 40px;
     font-weight: 600;
     width: 80%;
     font-family: -apple-system;
@@ -67,26 +77,13 @@ layout: home
   margin-right: auto;
   font-family: Helvetica;
 }
-
-#container2 {height: 100%; width:100%; font-size: 0;}
-#left2, #right2 {display: inline-block; *display: inline; zoom: 1; vertical-align: middle; font-size: 12px;}
-#left2 {width: 50%}
-#right2 {width: 50%;}
-
-#container3 {height: 100%; width:100%; font-size: 0;}
-#left3, #middle3, #right3 {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
-#left3 {width: 25%}
-#middle3 {width: 50%}
-#right3 {width: 25%}
-
 </style>
-
-
-
 
 <body> 
     <div>
-        <h1 class="title">Import data to Apple Health in a secure way</h1>
+        <h1 class="title">Bridgedy</h1>
+        <img class="appIcon" src="/assets/BridgedyLogo.svg"> 
+        <h1 class="subtitle">Import data to Apple Health in a private way</h1>
         <p style="color: gray; text-align: center">We are on Beta.</p>
     </div>
 </body>
