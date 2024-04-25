@@ -79,27 +79,8 @@ layout: home
   vertical-align: center;
   text-align: left;
 }
-
-@media screen and (min-width: 150px) {
-    .cardText {
-        font-size: 20px;
-    }
-}
-
-@media screen and (max-width: 300px) {
-    .cardText {
-        font-size: 17px;
-    }
-}
-
-@media screen and (max-width: 800px) {
-    .cardText {
-        font-size: 13px;
-    }
-}
-
 .container {
-    margin-top: 150px;
+    margin-top: 120px;
     height: 100%; 
     width:80%; 
     margin-left: auto; 
@@ -112,6 +93,51 @@ layout: home
 #left {width: 35%}
 #middle {width: 10%}
 #right {width: 35%}
+
+@media screen and (min-width: 350px) {
+    .container {
+        width:100%
+    }
+    .cardText {
+        font-size: 9px;
+    }
+}
+
+@media screen and (min-width: 400px) {
+    .container {
+        width:100%
+    }
+    .cardText {
+        font-size: 12px;
+    }
+}
+
+@media screen and (min-width: 550px) {
+    .container {
+        width:100%
+    }
+    .cardText {
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width: 650px) {
+    .container {
+        width:100%
+    }
+    .cardText {
+        font-size: 17px;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .container {
+        width:100%
+    }
+    .cardText {
+        font-size: 25px;
+    }
+}
 </style>
 
 <body> 
@@ -128,7 +154,19 @@ layout: home
       <div id="middle">
       </div>
       <div id="right">
-        <p class="cardText">Privacy is a fundamental human right so everyone should have an app to manage his health data in a private way. Unfortunately many health and fitness apps take advantage of their access to your Apple Health data in their own benefit. With Bridgedy app you can export data to Apple Health in a private way.</p>
+        <p class="cardText">Privacy is a fundamental human right so everyone should have an app to manage his health data in a private way.</p>
+        <p class="cardText">Unfortunately many health and fitness apps take advantage of their access to your Apple Health data in their own benefit. With Bridgedy app you can export data to Apple Health in a private way.</p>
+      </div>
+    </div>
+    <div class="container">
+      <div id="left">
+        <p class="cardText">Bridgedy app syncs perfectly with Apple Health so your health data is always up to date.</p>
+        <p class="cardText" style="text-align: right">And Bridgedy does not take your data out of your iPhone so it is totally private and secure.</p>
+      </div>
+      <div id="middle">
+      </div>
+      <div id="right">
+        <img src="/assets/authorizationScreenSE.png"> 
       </div>
     </div>
 </body>
