@@ -223,7 +223,6 @@ layout: home
       <div id="left">
       <p class="cardTextTitle" style="text-align: right">Teaming up with Necktimer</p>
         <p class="cardText" style="text-align: right">Bridgedy is committed to foster human beings health so it has team up with Necktimer app.</p>
-        <p class="cardText" style="text-align: right">And Bridgedy does not take your data out of your iPhone so it is totally private and secure.</p>
       </div>
       <div id="middle">
       </div>
