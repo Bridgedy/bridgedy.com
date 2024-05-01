@@ -65,6 +65,13 @@ layout: home
     margin-top: -40px;
     margin-bottom: 0px;
 }
+.anotherImg {
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
 .img1 {
     display: block;
     margin-left: auto;
@@ -181,7 +188,8 @@ layout: home
         <h1 class="title">Bridgedy</h1>
         <img class="appIcon" src="/assets/BridgedyLogo.svg"> 
         <h1 class="subtitle">Export data to Apple Health in a private way</h1>
-        <p style="color: gray; text-align: center">We are on Beta.</p>
+        <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=6476464397"><img class="anotherImg" src="/assets/DownloadAppStore_white.svg"></a>
+        <p style="color: gray; text-align: center">Now available in the USA, Canada, UK, the Netherlands and Spain.</p>
     </div>
     <div class="container">
       <div id="left">
